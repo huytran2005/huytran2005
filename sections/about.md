@@ -13,14 +13,9 @@
 Focused on architecture, performance, and maintainable systems.
 </p>
 
-<br>
-
 <p align="left">
-Interested in backend integration, automation workflows,
-and reliable engineering systems.
+Interested in backend development, automation workflows, and security practices.
 </p>
-
-<br>
 
 <p align="left">
   <img
