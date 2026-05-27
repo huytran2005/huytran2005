@@ -29,7 +29,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: your-username
+          user: huytran2005
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
