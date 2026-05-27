@@ -6,49 +6,29 @@
   />
 </h2>
 
-<p align="left">
-These charts reflect my coding activity, contribution patterns, language usage, and engineering consistency across personal and collaborative projects.
-</p>
-
-<br/>
-
-<!-- STATS -->
-
+<!-- ROW 1: GitHub Stats + Top Languages -->
 <div align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="8">
     <tr align="center">
       <td>
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
-      <td width="15"></td>
       <td>
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-<!-- STREAK -->
-
+<!-- ROW 2: Streak — centered, fixed height, not stretched -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br/>
-
-<!-- CONTRIBUTION -->
-
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Contribution+Activity" alt="Contribution Activity" />
-</h3>
-
+<!-- ROW 3: Contribution Snake — dedicated full-width row -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-<br/>
 
 <p align="left">
   <img
