@@ -63,8 +63,8 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 
 <!-- MOBILE -->
 
-<h3 align="left" style="color:#C8A96B;">
-  Mobile Development
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Mobile+Development" alt="Mobile Development" />
 </h3>
 
 <p align="left">
@@ -80,8 +80,8 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 
 <!-- BACKEND -->
 
-<h3 align="left" style="color:#C8A96B;">
-  Backend Engineering
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Backend+Engineering" alt="Backend Engineering" />
 </h3>
 
 <p align="left">
@@ -96,8 +96,8 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 
 <!-- DEVOPS -->
 
-<h3 align="left" style="color:#C8A96B;">
-  Infrastructure & DevOps
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=400&height=35&lines=Infrastructure+%26+DevOps" alt="Infrastructure & DevOps" />
 </h3>
 
 <p align="left">
@@ -111,8 +111,8 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 
 <!-- FRONTEND -->
 
-<h3 align="left" style="color:#C8A96B;">
-  Frontend & Tooling
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Frontend+%26+Tooling" alt="Frontend & Tooling" />
 </h3>
 
 <p align="left">
