@@ -7,23 +7,11 @@
 </h2>
 
 <h3 align="left">
-Designing scalable Android applications with modern backend infrastructure
+Designing scalable Android applications with modern technologies.
 </h3>
 
 <p align="left">
-Focused on clean architecture, maintainability, performance optimization, and developer-first engineering workflows across mobile and backend ecosystems.
-</p>
-
-<p align="left">
-Experienced with Kotlin Android development using Jetpack Compose, Coroutines, Room Database, Retrofit, MVVM architecture, and Firebase Authentication integrations.
-</p>
-
-<p align="left">
-Building backend services with FastAPI and PostgreSQL, containerized workflows using Docker, asynchronous systems powered by RabbitMQ and Redis, and modern frontend tooling with React, TypeScript, and Vite.
-</p>
-
-<p align="left">
-Actively exploring distributed systems, cloud-native infrastructure, CI/CD automation pipelines, scalable backend engineering, and high-performance application architecture.
+Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backend systems using FastAPI, PostgreSQL, Redis, and Docker. Passionate about clean architecture, high-performance applications, and automated DevOps workflows to deliver seamless user experiences across mobile and backend ecosystems.
 </p>
 
 <br/>
@@ -34,46 +22,12 @@ Actively exploring distributed systems, cloud-native infrastructure, CI/CD autom
   Mobile Development
 </h3>
 
-<table>
-<tr>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/>
-  Kotlin
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/>
-  Android
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>
-  Firebase
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>
-  Room DB
-</td>
-
-<td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48"/><br/>
-  Coroutines
-</td>
-
-<td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="48"/><br/>
-  Compose
-</td>
-
-<td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="48"/><br/>
-  MVVM
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite" height="46" alt="Mobile Development" />&nbsp;
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="46" alt="Coroutines" />&nbsp;
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="46" alt="Compose" />&nbsp;
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="46" alt="MVVM" />
+</p>
 
 <br/>
 
@@ -83,36 +37,11 @@ Actively exploring distributed systems, cloud-native infrastructure, CI/CD autom
   Backend Engineering
 </h3>
 
-<table>
-<tr>
-
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
-  FastAPI
-</td>
-
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
-  PostgreSQL
-</td>
-
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>
-  Redis
-</td>
-
-<td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/><br/>
-  RabbitMQ
-</td>
-
-<td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48"/><br/>
-  REST API
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" height="46" alt="Backend Engineering" />&nbsp;
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="46" alt="RabbitMQ" />&nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="46" alt="REST API" />
+</p>
 
 <br/>
 
@@ -122,31 +51,10 @@ Actively exploring distributed systems, cloud-native infrastructure, CI/CD autom
   Infrastructure & DevOps
 </h3>
 
-<table>
-<tr>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-  Docker
-</td>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>
-  CI/CD
-</td>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>
-  Linux
-</td>
-
-<td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48"/><br/>
-  Git
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" height="46" alt="Infrastructure" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="46" alt="Git" />
+</p>
 
 <br/>
 
@@ -156,31 +64,9 @@ Actively exploring distributed systems, cloud-native infrastructure, CI/CD autom
   Frontend & Tooling
 </h3>
 
-<table>
-<tr>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
-  React
-</td>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>
-  TypeScript
-</td>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>
-  Vite
-</td>
-
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
-  TailwindCSS
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="46" alt="Frontend & Tooling" />
+</p>
 
 <br/>
 <br/>
