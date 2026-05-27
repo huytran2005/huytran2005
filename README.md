@@ -32,7 +32,7 @@ Focused on architecture, performance, and maintainable systems.
 </p>
 
 <p align="left">
-Interested in backend development, automation workflows, and security practices.
+Actively expanding expertise into high-performance backend systems, automated developer workflows, and the integration of decentralized blockchain architectures.
 </p>
 
 <p align="left">
