@@ -25,11 +25,7 @@
 </h2>
 
 
-<p align="left">
- <strong style="font-size: 32px;">
-    Designing scalable Android applications
-  </strong>
-</p>
+<h3 align="left">Designing scalable Android applications</h3>
 
 <p align="left">
 Focused on architecture, performance, and maintainable systems.
