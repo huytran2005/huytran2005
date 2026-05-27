@@ -31,14 +31,9 @@
 Focused on architecture, performance, and maintainable systems.
 </p>
 
-<br>
-
 <p align="left">
-Interested in backend integration, automation workflows,
-and reliable engineering systems.
+Actively expanding expertise into high-performance backend systems, automated developer workflows, and the integration of decentralized blockchain architectures.
 </p>
-
-<br>
 
 <p align="left">
   <img
