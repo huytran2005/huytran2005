@@ -1,29 +1,24 @@
 <!-- TECH STACK SECTION -->
 ## 🛠️ Tech Stack & Skills
 
-A curated selection of languages, frameworks, and developer tools that I build with daily.
+A curated selection of languages, frameworks, and developer tools that I build with daily, styled to match a premium dark and gold aesthetic.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `JavaScript (ES6+)` `TypeScript` `Go` `Rust` `Python` `SQL` |
-| **Frontend** | `React.js` `Next.js` `Svelte` `TailwindCSS` `HTML5/CSS3` |
-| **Backend** | `Node.js` `Express.js` `FastAPI` `Gin (Go)` `GraphQL` `gRPC` |
-| **Databases** | `PostgreSQL` `MongoDB` `Redis` `Prisma` `PostgreSQL` |
-| **DevOps / Cloud** | `Docker` `Kubernetes` `AWS` `Terraform` `GitHub Actions` `CI/CD` |
-| **Tools** | `Git` `Linux` `Vim` `Neovim` `Postman` `Webpack` `Vite` |
+### ⚡ Languages
+<img src="https://img.shields.io/badge/JavaScript-0E1015?style=for-the-badge&logo=javascript&logoColor=C8A96B" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-0E1015?style=for-the-badge&logo=typescript&logoColor=C8A96B" alt="TypeScript"/> <img src="https://img.shields.io/badge/Go-0E1015?style=for-the-badge&logo=go&logoColor=C8A96B" alt="Go"/> <img src="https://img.shields.io/badge/Rust-0E1015?style=for-the-badge&logo=rust&logoColor=C8A96B" alt="Rust"/> <img src="https://img.shields.io/badge/Python-0E1015?style=for-the-badge&logo=python&logoColor=C8A96B" alt="Python"/> <img src="https://img.shields.io/badge/SQL-0E1015?style=for-the-badge&logo=sqlite&logoColor=C8A96B" alt="SQL"/>
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React.js-0E1015?style=for-the-badge&logo=react&logoColor=C8A96B" alt="React"/> <img src="https://img.shields.io/badge/Next.js-0E1015?style=for-the-badge&logo=nextdotjs&logoColor=C8A96B" alt="Next.js"/> <img src="https://img.shields.io/badge/Svelte-0E1015?style=for-the-badge&logo=svelte&logoColor=C8A96B" alt="Svelte"/> <img src="https://img.shields.io/badge/TailwindCSS-0E1015?style=for-the-badge&logo=tailwindcss&logoColor=C8A96B" alt="Tailwind"/> <img src="https://img.shields.io/badge/HTML5-0E1015?style=for-the-badge&logo=html5&logoColor=C8A96B" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-0E1015?style=for-the-badge&logo=css3&logoColor=C8A96B" alt="CSS3"/>
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-0E1015?style=for-the-badge&logo=nodedotjs&logoColor=C8A96B" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-0E1015?style=for-the-badge&logo=express&logoColor=C8A96B" alt="Express"/> <img src="https://img.shields.io/badge/FastAPI-0E1015?style=for-the-badge&logo=fastapi&logoColor=C8A96B" alt="FastAPI"/> <img src="https://img.shields.io/badge/Gin_Go-0E1015?style=for-the-badge&logo=go&logoColor=C8A96B" alt="Gin"/> <img src="https://img.shields.io/badge/GraphQL-0E1015?style=for-the-badge&logo=graphql&logoColor=C8A96B" alt="GraphQL"/> <img src="https://img.shields.io/badge/gRPC-0E1015?style=for-the-badge&logo=grpc&logoColor=C8A96B" alt="gRPC"/>
+
+### 💾 Databases & ORMs
+<img src="https://img.shields.io/badge/PostgreSQL-0E1015?style=for-the-badge&logo=postgresql&logoColor=C8A96B" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-0E1015?style=for-the-badge&logo=mongodb&logoColor=C8A96B" alt="MongoDB"/> <img src="https://img.shields.io/badge/Redis-0E1015?style=for-the-badge&logo=redis&logoColor=C8A96B" alt="Redis"/> <img src="https://img.shields.io/badge/Prisma-0E1015?style=for-the-badge&logo=prisma&logoColor=C8A96B" alt="Prisma"/>
+
+### ☁️ DevOps & Cloud
+<img src="https://img.shields.io/badge/Docker-0E1015?style=for-the-badge&logo=docker&logoColor=C8A96B" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-0E1015?style=for-the-badge&logo=kubernetes&logoColor=C8A96B" alt="Kubernetes"/> <img src="https://img.shields.io/badge/AWS-0E1015?style=for-the-badge&logo=amazonaws&logoColor=C8A96B" alt="AWS"/> <img src="https://img.shields.io/badge/Terraform-0E1015?style=for-the-badge&logo=terraform&logoColor=C8A96B" alt="Terraform"/> <img src="https://img.shields.io/badge/GitHub_Actions-0E1015?style=for-the-badge&logo=githubactions&logoColor=C8A96B" alt="GitHub Actions"/>
+
+### 🛠️ Tools
+<img src="https://img.shields.io/badge/Git-0E1015?style=for-the-badge&logo=git&logoColor=C8A96B" alt="Git"/> <img src="https://img.shields.io/badge/Linux-0E1015?style=for-the-badge&logo=linux&logoColor=C8A96B" alt="Linux"/> <img src="https://img.shields.io/badge/Neovim-0E1015?style=for-the-badge&logo=neovim&logoColor=C8A96B" alt="Neovim"/> <img src="https://img.shields.io/badge/Postman-0E1015?style=for-the-badge&logo=postman&logoColor=C8A96B" alt="Postman"/> <img src="https://img.shields.io/badge/Webpack-0E1015?style=for-the-badge&logo=webpack&logoColor=C8A96B" alt="Webpack"/> <img src="https://img.shields.io/badge/Vite-0E1015?style=for-the-badge&logo=vite&logoColor=C8A96B" alt="Vite"/>
 
 <br/>
-
-<!-- Modern aesthetic badge list alternative -->
-<details>
-  <summary><b>⚡ Click to toggle grid badge view</b></summary>
-  <br/>
-  
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</details>
