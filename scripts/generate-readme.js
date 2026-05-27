@@ -16,9 +16,7 @@ const SECTION_ORDER = [
   'hero.md',
   'about.md',
   'tech-stack.md',
-  'stats.md',
-  'focus.md',
-  'contact.md'
+  'stats.md'
 ];
 
 const SECTIONS_DIR = path.join(__dirname, '..', 'sections');
