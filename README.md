@@ -133,100 +133,109 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 </p>
 <!-- SECTION: END - TECH-STACK -->
 
-<!-- SECTION: START - PROJECTS -->
-<!-- PROJECTS SECTION -->
-## 🚀 Featured Projects
-
-A showcase of production-ready systems, developer tools, and architectural experiments.
-
-| Project Name | Description & Highlights | Core Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🌐 Project Alpha** | High-performance distributed task scheduler with automatic horizontal scaling and real-time state tracking. | `Go` `Redis` `gRPC` | [📁 Repo](https://github.com/your-username/project-alpha) / [⚡ Live](https://project-alpha.demo) |
-| **🛠️ Project Beta** | Lightweight headless CMS engine optimized for static site generation with markdown-first schemas. | `Next.js` `TypeScript` | [📁 Repo](https://github.com/your-username/project-beta) / [⚡ Live](https://project-beta.demo) |
-| **⚡ Project Gamma** | Kubernetes operator automating multi-tenant PostgreSQL database deployments and automated backup procedures. | `Rust` `Docker` `K8s` | [📁 Repo](https://github.com/your-username/project-gamma) / [⚡ Live](https://project-gamma.demo) |
-
----
-<!-- SECTION: END - PROJECTS -->
-
 <!-- SECTION: START - STATS -->
-<!-- STATS SECTION -->
-## 📊 GitHub Analytics
+<!-- GITHUB ANALYTICS -->
 
-These charts reflect my active coding sessions, commit frequencies, and language distributions across all public and private work repositories.
+<h2 align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=520&height=45&lines=GitHub+Analytics"
+  />
+</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F2FE&icon_color=9B51E0&text_color=c9d1d9" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F2FE&text_color=c9d1d9" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<p align="left">
+These charts reflect my coding activity, contribution patterns, language usage, and engineering consistency across personal and collaborative projects.
+</p>
 
-  <!-- Contribution Snake Animation Graphic (Output of workflows/snake.yml) -->
-  <h3>🎨 Contribution Grid Wave</h3>
-  <img src="./assets/gifs/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
-</div>
+<br/>
 
----
+<!-- STATS -->
+
+<p align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=huytran2005&show_icons=true&theme=transparent&hide_border=true&title_color=C8A96B&text_color=E5E7EB&icon_color=C8A96B"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=transparent&hide_border=true&title_color=C8A96B&text_color=E5E7EB"
+/>
+
+</p>
+
+<br/>
+
+<!-- STREAK -->
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=huytran2005&theme=transparent&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=E5E7EB&dates=94A3B8"
+/>
+
+</p>
+
+<br/>
+
+<!-- CONTRIBUTION -->
+
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Contribution+Activity" alt="Contribution Activity" />
+</h3>
+
+<p align="center">
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake-dark.svg"
+/>
+
+</p>
+
+<br/>
+
+<p align="left">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A96B,100:0D1117&height=2&section=header"
+  />
+</p>
+
+<!-- SNAKE WORKFLOW -->
+
+<!--
+Tạo file:
+.github/workflows/snake.yml
+
+Paste code dưới đây:
+-->
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: huytran2005
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 <!-- SECTION: END - STATS -->
-
-<!-- SECTION: START - FOCUS -->
-<!-- FOCUS SECTION -->
-## 🎯 Current Focus & Exploration
-
-Continuous learning is at the center of my engineering philosophy. Here is what I am actively reading, building, and researching:
-
-* **Distributed Systems**: Deep-diving into consensus algorithms (Raft, Paxos) and studying real-world failure modes.
-* **Systems Programming**: Building toy kernels and core utility tools in `Rust` and `Go` to understand low-level operations.
-* **Cloud-Native Scalability**: Experimenting with service mesh architectures (Istio, Linkerd) and fine-tuning container networking.
-
----
-<!-- SECTION: END - FOCUS -->
-
-<!-- SECTION: START - CONTACT -->
-<!-- CONTACT SECTION -->
-## ✉️ Get in Touch
-
-Connect with me for collaborations, technical questions, or professional opportunities.
-
-```bash
-# Terminal command to display contact options
-$ curl -s https://api.yourprofile.dev/contact | jq .
-```
-
-```json
-{
-  "email": "your.email@domain.com",
-  "linkedin": "https://linkedin.com/in/yourprofile",
-  "twitter": "https://twitter.com/yourhandle",
-  "website": "https://yourwebsite.dev"
-}
-```
-
-<div align="center">
-  <br/>
-  
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://yourwebsite.dev">
-    <img src="https://img.shields.io/badge/Website-9B51E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</div>
-<!-- SECTION: END - CONTACT -->
 
