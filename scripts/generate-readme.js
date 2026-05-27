@@ -15,7 +15,8 @@ const path = require('path');
 const SECTION_ORDER = [
   'hero.md',
   'about.md',
-  'dashboard.md'
+  'dashboard.md',
+  'contact.md'
 ];
 
 const SECTIONS_DIR = path.join(__dirname, '..', 'sections');
