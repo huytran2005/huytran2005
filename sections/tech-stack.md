@@ -7,11 +7,11 @@
 </h2>
 
 <h3 align="left">
-Designing scalable Android applications with modern backend infrastructure
+Designing scalable Android applications with modern technologies.
 </h3>
 
 <p align="left">
-Focused on Kotlin development (Jetpack Compose, MVVM) and robust backend systems (FastAPI, PostgreSQL, Redis, Docker). Passionate about clean architecture, high-performance systems, and automated DevOps workflows to deliver exceptional user experiences across mobile and backend ecosystems.
+Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backend systems using FastAPI, PostgreSQL, Redis, and Docker. Passionate about clean architecture, high-performance applications, and automated DevOps workflows to deliver seamless user experiences across mobile and backend ecosystems.
 </p>
 
 <br/>
