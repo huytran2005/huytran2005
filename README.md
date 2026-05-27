@@ -44,29 +44,197 @@ Actively expanding expertise into high-performance backend systems, automated de
 
 <!-- SECTION: START - TECH-STACK -->
 <!-- TECH STACK SECTION -->
-## 🛠️ Tech Stack & Skills
 
-A curated selection of languages, frameworks, and developer tools that I build with daily, styled to match a premium dark and gold aesthetic.
+<h2 align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=780&height=45&lines=Mobile+%26+Backend+Engineering"
+  />
+</h2>
 
-### ⚡ Languages
-<img src="https://img.shields.io/badge/JavaScript-0E1015?style=for-the-badge&logo=javascript&logoColor=C8A96B" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-0E1015?style=for-the-badge&logo=typescript&logoColor=C8A96B" alt="TypeScript"/> <img src="https://img.shields.io/badge/Go-0E1015?style=for-the-badge&logo=go&logoColor=C8A96B" alt="Go"/> <img src="https://img.shields.io/badge/Rust-0E1015?style=for-the-badge&logo=rust&logoColor=C8A96B" alt="Rust"/> <img src="https://img.shields.io/badge/Python-0E1015?style=for-the-badge&logo=python&logoColor=C8A96B" alt="Python"/> <img src="https://img.shields.io/badge/SQL-0E1015?style=for-the-badge&logo=sqlite&logoColor=C8A96B" alt="SQL"/>
+<h3 align="left">
+Designing scalable Android applications with modern backend infrastructure
+</h3>
 
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/React.js-0E1015?style=for-the-badge&logo=react&logoColor=C8A96B" alt="React"/> <img src="https://img.shields.io/badge/Next.js-0E1015?style=for-the-badge&logo=nextdotjs&logoColor=C8A96B" alt="Next.js"/> <img src="https://img.shields.io/badge/Svelte-0E1015?style=for-the-badge&logo=svelte&logoColor=C8A96B" alt="Svelte"/> <img src="https://img.shields.io/badge/TailwindCSS-0E1015?style=for-the-badge&logo=tailwindcss&logoColor=C8A96B" alt="Tailwind"/> <img src="https://img.shields.io/badge/HTML5-0E1015?style=for-the-badge&logo=html5&logoColor=C8A96B" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-0E1015?style=for-the-badge&logo=css3&logoColor=C8A96B" alt="CSS3"/>
+<p align="left">
+Focused on clean architecture, maintainability, performance optimization, and developer-first engineering workflows across mobile and backend ecosystems.
+</p>
 
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-0E1015?style=for-the-badge&logo=nodedotjs&logoColor=C8A96B" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-0E1015?style=for-the-badge&logo=express&logoColor=C8A96B" alt="Express"/> <img src="https://img.shields.io/badge/FastAPI-0E1015?style=for-the-badge&logo=fastapi&logoColor=C8A96B" alt="FastAPI"/> <img src="https://img.shields.io/badge/Gin_Go-0E1015?style=for-the-badge&logo=go&logoColor=C8A96B" alt="Gin"/> <img src="https://img.shields.io/badge/GraphQL-0E1015?style=for-the-badge&logo=graphql&logoColor=C8A96B" alt="GraphQL"/> <img src="https://img.shields.io/badge/gRPC-0E1015?style=for-the-badge&logo=grpc&logoColor=C8A96B" alt="gRPC"/>
+<p align="left">
+Experienced with Kotlin Android development using Jetpack Compose, Coroutines, Room Database, Retrofit, MVVM architecture, and Firebase Authentication integrations.
+</p>
 
-### 💾 Databases & ORMs
-<img src="https://img.shields.io/badge/PostgreSQL-0E1015?style=for-the-badge&logo=postgresql&logoColor=C8A96B" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-0E1015?style=for-the-badge&logo=mongodb&logoColor=C8A96B" alt="MongoDB"/> <img src="https://img.shields.io/badge/Redis-0E1015?style=for-the-badge&logo=redis&logoColor=C8A96B" alt="Redis"/> <img src="https://img.shields.io/badge/Prisma-0E1015?style=for-the-badge&logo=prisma&logoColor=C8A96B" alt="Prisma"/>
+<p align="left">
+Building backend services with FastAPI and PostgreSQL, containerized workflows using Docker, asynchronous systems powered by RabbitMQ and Redis, and modern frontend tooling with React, TypeScript, and Vite.
+</p>
 
-### ☁️ DevOps & Cloud
-<img src="https://img.shields.io/badge/Docker-0E1015?style=for-the-badge&logo=docker&logoColor=C8A96B" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-0E1015?style=for-the-badge&logo=kubernetes&logoColor=C8A96B" alt="Kubernetes"/> <img src="https://img.shields.io/badge/AWS-0E1015?style=for-the-badge&logo=amazonaws&logoColor=C8A96B" alt="AWS"/> <img src="https://img.shields.io/badge/Terraform-0E1015?style=for-the-badge&logo=terraform&logoColor=C8A96B" alt="Terraform"/> <img src="https://img.shields.io/badge/GitHub_Actions-0E1015?style=for-the-badge&logo=githubactions&logoColor=C8A96B" alt="GitHub Actions"/>
-
-### 🛠️ Tools
-<img src="https://img.shields.io/badge/Git-0E1015?style=for-the-badge&logo=git&logoColor=C8A96B" alt="Git"/> <img src="https://img.shields.io/badge/Linux-0E1015?style=for-the-badge&logo=linux&logoColor=C8A96B" alt="Linux"/> <img src="https://img.shields.io/badge/Neovim-0E1015?style=for-the-badge&logo=neovim&logoColor=C8A96B" alt="Neovim"/> <img src="https://img.shields.io/badge/Postman-0E1015?style=for-the-badge&logo=postman&logoColor=C8A96B" alt="Postman"/> <img src="https://img.shields.io/badge/Webpack-0E1015?style=for-the-badge&logo=webpack&logoColor=C8A96B" alt="Webpack"/> <img src="https://img.shields.io/badge/Vite-0E1015?style=for-the-badge&logo=vite&logoColor=C8A96B" alt="Vite"/>
+<p align="left">
+Actively exploring distributed systems, cloud-native infrastructure, CI/CD automation pipelines, scalable backend engineering, and high-performance application architecture.
+</p>
 
 <br/>
+
+<!-- MOBILE -->
+
+<h3 align="left" style="color:#C8A96B;">
+  Mobile Development
+</h3>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/>
+  Kotlin
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/>
+  Android
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>
+  Firebase
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>
+  Room DB
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48"/><br/>
+  Coroutines
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="48"/><br/>
+  Compose
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="48"/><br/>
+  MVVM
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- BACKEND -->
+
+<h3 align="left" style="color:#C8A96B;">
+  Backend Engineering
+</h3>
+
+<table>
+<tr>
+
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
+  FastAPI
+</td>
+
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
+  PostgreSQL
+</td>
+
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>
+  Redis
+</td>
+
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/><br/>
+  RabbitMQ
+</td>
+
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48"/><br/>
+  REST API
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- DEVOPS -->
+
+<h3 align="left" style="color:#C8A96B;">
+  Infrastructure & DevOps
+</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+  Docker
+</td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>
+  CI/CD
+</td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>
+  Linux
+</td>
+
+<td align="center" width="120">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48"/><br/>
+  Git
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- FRONTEND -->
+
+<h3 align="left" style="color:#C8A96B;">
+  Frontend & Tooling
+</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+  React
+</td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>
+  TypeScript
+</td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>
+  Vite
+</td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+  TailwindCSS
+</td>
+
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<p align="left">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A96B,100:0D1117&height=2&section=header"
+  />
+</p>
 <!-- SECTION: END - TECH-STACK -->
 
 <!-- SECTION: START - PROJECTS -->
