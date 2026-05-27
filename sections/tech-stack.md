@@ -23,10 +23,12 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite" height="46" alt="Mobile Development" />&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="46" alt="Coroutines" />&nbsp;
-  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="46" alt="Compose" />&nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="46" alt="MVVM" />
+  <img src="https://cdn.simpleicons.org/kotlin/C8A96B" height="42" alt="Kotlin" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/androidstudio/C8A96B" height="42" alt="Android Studio" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/C8A96B" height="42" alt="Firebase" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/C8A96B" height="42" alt="SQLite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jetpackcompose/C8A96B" height="42" alt="Compose" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/android/C8A96B" height="42" alt="Android" />
 </p>
 
 <br/>
@@ -38,9 +40,11 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" height="46" alt="Backend Engineering" />&nbsp;
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="46" alt="RabbitMQ" />&nbsp;
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="46" alt="REST API" />
+  <img src="https://cdn.simpleicons.org/fastapi/C8A96B" height="42" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/C8A96B" height="42" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/C8A96B" height="42" alt="Redis" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rabbitmq/C8A96B" height="42" alt="RabbitMQ" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/C8A96B" height="42" alt="REST API" />
 </p>
 
 <br/>
@@ -52,8 +56,10 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" height="46" alt="Infrastructure" />&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="46" alt="Git" />
+  <img src="https://cdn.simpleicons.org/docker/C8A96B" height="42" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/C8A96B" height="42" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/C8A96B" height="42" alt="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/C8A96B" height="42" alt="Git" />
 </p>
 
 <br/>
@@ -65,7 +71,10 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="46" alt="Frontend & Tooling" />
+  <img src="https://cdn.simpleicons.org/react/C8A96B" height="42" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/C8A96B" height="42" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/C8A96B" height="42" alt="Vite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/C8A96B" height="42" alt="TailwindCSS" />
 </p>
 
 <br/>
