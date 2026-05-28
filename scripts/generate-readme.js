@@ -16,6 +16,7 @@ const SECTION_ORDER = [
   'hero.md',
   'about.md',
   'tech-stack.md',
+  'projects.md',
   'stats.md'
 ];
 

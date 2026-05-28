@@ -24,15 +24,8 @@
   />
 </h2>
 
-
-<h3 align="left">Designing scalable Android applications</h3>
-
 <p align="left">
-Focused on architecture, performance, and maintainable systems.
-</p>
-
-<p align="left">
-Actively expanding expertise into high-performance backend systems, automated developer workflows, and the integration of decentralized blockchain architectures.
+Android Engineer · Kotlin · Jetpack Compose · MVVM · FastAPI · PostgreSQL · Redis · Docker · CI/CD
 </p>
 
 <p align="left">
@@ -47,83 +40,50 @@ Actively expanding expertise into high-performance backend systems, automated de
 
 <h2 align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=780&height=45&lines=Mobile+%26+Backend+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=780&height=45&lines=Tech+Stack"
   />
 </h2>
 
-<h3 align="left">
-Designing scalable Android applications with modern technologies.
-</h3>
-
-<p align="left">
-Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backend systems using FastAPI, PostgreSQL, Redis, and Docker. Passionate about clean architecture, high-performance applications, and automated DevOps workflows to deliver seamless user experiences across mobile and backend ecosystems.
-</p>
-
-<br/>
-
 <!-- MOBILE -->
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Mobile+Development" alt="Mobile Development" />
-</h3>
-
+<p align="left"><strong style="color:#C8A96B">Mobile</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="46" alt="Kotlin" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="46" alt="Android Studio" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="46" alt="Firebase" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="46" alt="SQLite" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="46" alt="Coroutines" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="46" alt="Compose" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="46" alt="MVVM" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="40" alt="Jetpack Compose" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
 </p>
-
-<br/>
 
 <!-- BACKEND -->
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Backend+Engineering" alt="Backend Engineering" />
-</h3>
-
+<p align="left"><strong style="color:#C8A96B">Backend</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="46" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="46" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="46" alt="Redis" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="46" alt="RabbitMQ" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="46" alt="REST API" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ" />
 </p>
 
-<br/>
+<!-- INFRASTRUCTURE -->
 
-<!-- DEVOPS -->
-
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=400&height=35&lines=Infrastructure+%26+DevOps" alt="Infrastructure & DevOps" />
-</h3>
-
+<p align="left"><strong style="color:#C8A96B">Infrastructure</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="46" alt="Docker" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" height="46" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="46" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
 </p>
-
-<br/>
 
 <!-- FRONTEND -->
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Frontend+%26+Tooling" alt="Frontend & Tooling" />
-</h3>
-
+<p align="left"><strong style="color:#C8A96B">Frontend</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="46" alt="React" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="46" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" height="46" alt="Vite" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="46" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
 </p>
 
-<br/>
 <br/>
 
 <p align="left">
@@ -132,6 +92,58 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
   />
 </p>
 <!-- SECTION: END - TECH-STACK -->
+
+<!-- SECTION: START - PROJECTS -->
+<!-- PROJECTS SECTION -->
+
+<h2 align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=520&height=45&lines=Featured+Projects"
+  />
+</h2>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🌐 Project Alpha</strong><br/>
+      <img src="https://img.shields.io/badge/Go-0E1015?style=flat-square&logoColor=C8A96B&logo=go" />
+      <img src="https://img.shields.io/badge/Redis-0E1015?style=flat-square&logoColor=C8A96B&logo=redis" />
+      <img src="https://img.shields.io/badge/gRPC-0E1015?style=flat-square&logoColor=C8A96B&logo=grpc" /><br/>
+      <sub>Distributed task scheduler with horizontal scaling and real-time state tracking.</sub><br/>
+      <a href="https://github.com/huytran2005" style="color:#C8A96B;font-size:12px">Source</a> &nbsp;·&nbsp; <a href="https://github.com/huytran2005" style="color:#C8A96B;font-size:12px">Demo</a>
+    </td>
+    <td width="24"></td>
+    <td valign="top" width="50%">
+      <strong>🛠️ Project Beta</strong><br/>
+      <img src="https://img.shields.io/badge/Next.js-0E1015?style=flat-square&logoColor=C8A96B&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/TypeScript-0E1015?style=flat-square&logoColor=C8A96B&logo=typescript" /><br/>
+      <sub>Headless CMS engine optimized for static site generation with markdown-first schemas.</sub><br/>
+      <a href="https://github.com/huytran2005" style="color:#C8A96B;font-size:12px">Source</a> &nbsp;·&nbsp; <a href="https://github.com/huytran2005" style="color:#C8A96B;font-size:12px">Demo</a>
+    </td>
+  </tr>
+  <tr><td height="20" colspan="3"></td></tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>⚡ Project Gamma</strong><br/>
+      <img src="https://img.shields.io/badge/Rust-0E1015?style=flat-square&logoColor=C8A96B&logo=rust" />
+      <img src="https://img.shields.io/badge/Docker-0E1015?style=flat-square&logoColor=C8A96B&logo=docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-0E1015?style=flat-square&logoColor=C8A96B&logo=kubernetes" /><br/>
+      <sub>Kubernetes operator automating multi-tenant PostgreSQL deployments and automated backups.</sub><br/>
+      <a href="https://github.com/huytran2005" style="color:#C8A96B;font-size:12px">Source</a> &nbsp;·&nbsp; <a href="https://github.com/huytran2005" style="color:#C8A96B;font-size:12px">Demo</a>
+    </td>
+    <td width="24"></td>
+    <td valign="top" width="50%"></td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="left">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A96B,100:0D1117&height=2&section=header"
+  />
+</p>
+<!-- SECTION: END - PROJECTS -->
 
 <!-- SECTION: START - STATS -->
 <!-- GITHUB ANALYTICS -->
@@ -142,49 +154,27 @@ Focused on Kotlin development (Jetpack Compose, MVVM) with an interest in backen
   />
 </h2>
 
-<p align="left">
-These charts reflect my coding activity, contribution patterns, language usage, and engineering consistency across personal and collaborative projects.
-</p>
-
-<br/>
-
-<!-- STATS -->
-
 <div align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr align="center">
       <td>
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
-      <td width="15"></td>
+      <td width="12"></td>
       <td>
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-<!-- STREAK -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br/>
-
-<!-- CONTRIBUTION -->
-
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=300&height=35&lines=Contribution+Activity" alt="Contribution Activity" />
-</h3>
-
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-<br/>
 
 <p align="left">
   <img

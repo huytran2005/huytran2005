@@ -6,15 +6,8 @@
   />
 </h2>
 
-
-<h3 align="left">Designing scalable Android applications</h3>
-
 <p align="left">
-Focused on architecture, performance, and maintainable systems.
-</p>
-
-<p align="left">
-Actively expanding expertise into high-performance backend systems, automated developer workflows, and the integration of decentralized blockchain architectures.
+Android Engineer · Kotlin · Jetpack Compose · MVVM · FastAPI · PostgreSQL · Redis · Docker · CI/CD
 </p>
 
 <p align="left">
