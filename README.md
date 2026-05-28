@@ -60,9 +60,9 @@
 <td width="48%">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=320&height=36&lines=GitHub+Analytics" alt="GitHub Analytics" />
 <br/>
-<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=github_dark&hide_border=true&icon_color=C8A96B&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="GitHub Stats" /><br/>
-<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=github_dark&hide_border=true&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="Top Languages" /><br/>
-<img height="130" src="https://streak-stats.demolab.com?user=huytran2005&theme=dark&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
+<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=C8A96B&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="GitHub Stats" /><br/>
+<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="Top Languages" /><br/>
+<img height="130" src="https://streak-stats.demolab.com?user=huytran2005&theme=dark&background=0D1117&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
