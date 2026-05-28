@@ -149,7 +149,7 @@
 </div>
 
 <p align="center" style="margin-top: 64px; margin-bottom: 24px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&color=C8A96B&vCenter=true&center=true&width=600&height=45&lines=%E2%9C%A6+H%E1%BB%8Dc%2C+h%E1%BB%8Dc+n%E1%BB%AFa%2C+h%E1%BB%8Dc+m%C3%A3i+%E2%9C%A6" alt="✦ Học, học nữa, học mãi ✦" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&color=C8A96B&vCenter=true&center=true&width=600&height=45&lines=%E2%9C%A6+Study%2C+study+more%2C+study+forever+%E2%9C%A6" alt="✦ Study, study more, study forever ✦" />
 </p>
 <!-- SECTION: END - CONTACT -->
 
