@@ -43,8 +43,38 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="assets/banners/tech-stack.svg" width="100%" alt="Tech Stack" />
+<div align="left" style="margin-left: 10px;">
+  <p style="margin-bottom: 20px; line-height: 2;">
+    <strong style="font-size: 16px; color: #c98b38; font-family: 'Cormorant Garamond', serif;">Mobile:</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=kotlin" height="36" alt="Kotlin" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="SQLite" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="36" alt="Compose" />
+  </p>
+  
+  <p style="margin-bottom: 20px; line-height: 2;">
+    <strong style="font-size: 16px; color: #c98b38; font-family: 'Cormorant Garamond', serif;">Backend:</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="FastAPI" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="36" alt="RabbitMQ" />
+  </p>
+
+  <p style="margin-bottom: 20px; line-height: 2;">
+    <strong style="font-size: 16px; color: #c98b38; font-family: 'Cormorant Garamond', serif;">Infrastructure:</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="Git" />
+  </p>
+
+  <p style="margin-bottom: 20px; line-height: 2;">
+    <strong style="font-size: 16px; color: #c98b38; font-family: 'Cormorant Garamond', serif;">Frontend:</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="TailwindCSS" />
+  </p>
 </div>
 
 <br/><br/>
