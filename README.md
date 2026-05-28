@@ -137,7 +137,7 @@
   </a>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-gia-huy-3014a3335/" style="text-decoration: none;">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-0E1015?style=for-the-badge&logo=LinkedIn&logoColor=C8A96B"
+      src="https://img.shields.io/badge/LinkedIn-0E1015?style=for-the-badge&logo=linkedin&logoColor=c8a96b"
       alt="LinkedIn"
     />
   </a>
