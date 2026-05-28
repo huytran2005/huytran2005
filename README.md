@@ -50,48 +50,38 @@
   />
 </h2>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <p align="left"><sub><strong style="color:#C8A96B">MOBILE</strong></sub></p>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=kotlin" height="36" alt="Kotlin" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />&nbsp;
-        <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="36" alt="Jetpack Compose" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="SQLite" />
-      </p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td width="50%">
+      <sub><strong style="color:#C8A96B">MOBILE</strong></sub><br/>
+      <img src="https://skillicons.dev/icons?i=kotlin" height="34" alt="Kotlin" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="34" alt="Android Studio" />
+      <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="34" alt="Jetpack Compose" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="34" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="34" alt="SQLite" />
     </td>
-    <td width="32"></td>
-    <td valign="top">
-      <p align="left"><sub><strong style="color:#C8A96B">BACKEND</strong></sub></p>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="FastAPI" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />&nbsp;
-        <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="36" alt="RabbitMQ" />
-      </p>
+    <td width="50%">
+      <sub><strong style="color:#C8A96B">BACKEND</strong></sub><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="34" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=redis" height="34" alt="Redis" />
+      <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="34" alt="RabbitMQ" />
     </td>
   </tr>
-  <tr><td height="8" colspan="3"></td></tr>
-  <tr>
-    <td valign="top">
-      <p align="left"><sub><strong style="color:#C8A96B">INFRASTRUCTURE</strong></sub></p>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />&nbsp;
-        <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="Git" />
-      </p>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr valign="top">
+    <td width="50%">
+      <sub><strong style="color:#C8A96B">INFRASTRUCTURE</strong></sub><br/>
+      <img src="https://skillicons.dev/icons?i=docker" height="34" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="34" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=linux" height="34" alt="Linux" />
+      <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" />
     </td>
-    <td width="32"></td>
-    <td valign="top">
-      <p align="left"><sub><strong style="color:#C8A96B">FRONTEND</strong></sub></p>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="TailwindCSS" />
-      </p>
+    <td width="50%">
+      <sub><strong style="color:#C8A96B">FRONTEND</strong></sub><br/>
+      <img src="https://skillicons.dev/icons?i=react" height="34" alt="React" />
+      <img src="https://skillicons.dev/icons?i=ts" height="34" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="TailwindCSS" />
     </td>
   </tr>
 </table>
@@ -114,25 +104,19 @@
   />
 </h2>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="8">
-    <tr align="center">
-      <td>
-        <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-      </td>
-      <td>
-        <img height="155" src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td width="50%" align="center">
+      <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /><br/>
+      <img width="99%" src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="8"></td>
+    <td width="50%" align="center">
+      <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" /><br/>
+      <img width="99%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img
