@@ -6,38 +6,9 @@
 </div>
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="25%" align="center">
-      <b style="font-size: 16px; color: #f5f1ea;">Mobile</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=kotlin" height="42" alt="Kotlin" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=androidstudio" height="42" alt="Android Studio" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite" /><br/><br/>
-      <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="42" alt="Compose" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <b style="font-size: 16px; color: #f5f1ea;">Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" /><br/><br/>
-      <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="42" alt="RabbitMQ" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <b style="font-size: 16px; color: #f5f1ea;">Infrastructure</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="GitHub Actions" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" /><br/><br/>
-      <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <b style="font-size: 16px; color: #f5f1ea;">Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="TailwindCSS" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/banners/tech-stack.svg" width="100%" alt="Tech Stack" />
+</div>
 
 <br/><br/>
 

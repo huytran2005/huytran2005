@@ -1,0 +1,163 @@
+<svg fill="none" width="100%" height="320" viewBox="0 0 760 320" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=DM+Mono:wght@400;500&amp;display=swap');
+        
+        .container {
+          width: 100%;
+          max-width: 760px;
+          height: 320px;
+          box-sizing: border-box;
+          margin: 0 auto;
+          position: relative;
+          background: transparent;
+          display: flex;
+          justify-content: space-between;
+          gap: 16px;
+        }
+        .column {
+          flex: 1;
+          background: linear-gradient(145deg, rgba(255,255,255,0.01) 0%, rgba(255,255,255,0.03) 100%);
+          border: 1px solid rgba(255,255,255,0.04);
+          border-radius: 20px;
+          padding: 20px 12px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+          transition: all 0.3s ease;
+        }
+        .title {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 20px;
+          font-weight: 600;
+          color: #c98b38;
+          margin: 0 0 20px 0;
+          letter-spacing: 0.5px;
+          text-align: center;
+        }
+        .icons-list {
+          display: flex;
+          flex-direction: column;
+          gap: 12px;
+          align-items: center;
+          width: 100%;
+        }
+        .icon-item {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          width: 100%;
+          padding: 4px 8px;
+          box-sizing: border-box;
+        }
+        .icon-img {
+          width: 32px;
+          height: 32px;
+          border-radius: 6px;
+          object-fit: contain;
+        }
+        .icon-name {
+          font-family: 'DM Mono', monospace;
+          font-size: 11px;
+          color: rgba(245,241,234,0.75);
+          font-weight: 400;
+        }
+      </style>
+      <div class="container">
+        <!-- Mobile -->
+        <div class="column">
+          <h2 class="title">Mobile</h2>
+          <div class="icons-list">
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=kotlin" class="icon-img" />
+              <span class="icon-name">Kotlin</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=androidstudio" class="icon-img" />
+              <span class="icon-name">Android</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" class="icon-img" />
+              <span class="icon-name">Compose</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=firebase" class="icon-img" />
+              <span class="icon-name">Firebase</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=sqlite" class="icon-img" />
+              <span class="icon-name">SQLite</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Backend -->
+        <div class="column">
+          <h2 class="title">Backend</h2>
+          <div class="icons-list">
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=fastapi" class="icon-img" />
+              <span class="icon-name">FastAPI</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=postgres" class="icon-img" />
+              <span class="icon-name">Postgres</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=redis" class="icon-img" />
+              <span class="icon-name">Redis</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" class="icon-img" />
+              <span class="icon-name">RabbitMQ</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Infrastructure -->
+        <div class="column">
+          <h2 class="title">Infra</h2>
+          <div class="icons-list">
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=docker" class="icon-img" />
+              <span class="icon-name">Docker</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=githubactions" class="icon-img" />
+              <span class="icon-name">Actions</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=linux" class="icon-img" />
+              <span class="icon-name">Linux</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://cdn.simpleicons.org/git/F05032" class="icon-img" />
+              <span class="icon-name">Git</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Frontend -->
+        <div class="column">
+          <h2 class="title">Frontend</h2>
+          <div class="icons-list">
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=react" class="icon-img" />
+              <span class="icon-name">React</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=ts" class="icon-img" />
+              <span class="icon-name">TypeScript</span>
+            </div>
+            <div class="icon-item">
+              <img src="https://skillicons.dev/icons?i=tailwind" class="icon-img" />
+              <span class="icon-name">Tailwind</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
