@@ -25,7 +25,13 @@
 </h2>
 
 <p align="left">
-Android Engineer · Kotlin · Jetpack Compose · MVVM · FastAPI · PostgreSQL · Redis · Docker · CI/CD
+  <strong>Android Engineer</strong> · Kotlin · Jetpack Compose · MVVM · Coroutines
+</p>
+
+<p align="left">
+  Building scalable mobile applications with clean architecture and performance-first design.<br/>
+  Backend-capable with FastAPI, PostgreSQL, Redis, and containerized infrastructure.<br/>
+  Student at <strong>Ho Chi Minh City University of Technology and Education</strong>.
 </p>
 
 <p align="left">
@@ -44,45 +50,51 @@ Android Engineer · Kotlin · Jetpack Compose · MVVM · FastAPI · PostgreSQL �
   />
 </h2>
 
-<!-- MOBILE -->
-
-<p align="left"><strong style="color:#C8A96B">Mobile</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="40" alt="Jetpack Compose" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
-</p>
-
-<!-- BACKEND -->
-
-<p align="left"><strong style="color:#C8A96B">Backend</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ" />
-</p>
-
-<!-- INFRASTRUCTURE -->
-
-<p align="left"><strong style="color:#C8A96B">Infrastructure</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-</p>
-
-<!-- FRONTEND -->
-
-<p align="left"><strong style="color:#C8A96B">Frontend</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <p align="left"><sub><strong style="color:#C8A96B">MOBILE</strong></sub></p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=kotlin" height="36" alt="Kotlin" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />&nbsp;
+        <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="36" alt="Jetpack Compose" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="SQLite" />
+      </p>
+    </td>
+    <td width="32"></td>
+    <td valign="top">
+      <p align="left"><sub><strong style="color:#C8A96B">BACKEND</strong></sub></p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="FastAPI" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />&nbsp;
+        <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="36" alt="RabbitMQ" />
+      </p>
+    </td>
+  </tr>
+  <tr><td height="8" colspan="3"></td></tr>
+  <tr>
+    <td valign="top">
+      <p align="left"><sub><strong style="color:#C8A96B">INFRASTRUCTURE</strong></sub></p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />&nbsp;
+        <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="Git" />
+      </p>
+    </td>
+    <td width="32"></td>
+    <td valign="top">
+      <p align="left"><sub><strong style="color:#C8A96B">FRONTEND</strong></sub></p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="TailwindCSS" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -103,25 +115,23 @@ Android Engineer · Kotlin · Jetpack Compose · MVVM · FastAPI · PostgreSQL �
 </h2>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="8">
     <tr align="center">
       <td>
-        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+        <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
-      <td width="12"></td>
       <td>
-        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+        <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+      </td>
+      <td>
+        <img height="155" src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img width="96%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="left">

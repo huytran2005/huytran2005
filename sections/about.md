@@ -7,7 +7,13 @@
 </h2>
 
 <p align="left">
-Android Engineer · Kotlin · Jetpack Compose · MVVM · FastAPI · PostgreSQL · Redis · Docker · CI/CD
+  <strong>Android Engineer</strong> · Kotlin · Jetpack Compose · MVVM · Coroutines
+</p>
+
+<p align="left">
+  Building scalable mobile applications with clean architecture and performance-first design.<br/>
+  Backend-capable with FastAPI, PostgreSQL, Redis, and containerized infrastructure.<br/>
+  Student at <strong>Ho Chi Minh City University of Technology and Education</strong>.
 </p>
 
 <p align="left">
