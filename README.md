@@ -87,7 +87,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=github_dark&bg_color=0D111700&hide_border=true&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="Top Languages" width="300" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=huytran2005&theme=dark&background=0D111700&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" width="380" />
+  <img src="https://streak-stats.demolab.com?user=huytran2005&theme=dark&background=0D111700&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" width="530" />
 </p>
 
 <br/><br/>
