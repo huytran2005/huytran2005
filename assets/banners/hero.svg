@@ -136,8 +136,7 @@
         <div class="content">
           <div class="header">
             <h1 class="title">
-              Huy<br />
-              <span class="title-italic">Tran</span>
+              <span class="title-italic" style="color: #f5f1ea;">Huy</span> <span class="title-italic">Tran</span>
             </h1>
             <div class="badge">
               <span class="dot"></span>

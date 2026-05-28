@@ -18,61 +18,133 @@
 <!-- SECTION: START - ABOUT -->
 <!-- ABOUT SECTION -->
 
-<h2 align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=520&height=45&lines=About"
-  />
-</h2>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=520&height=50&lines=About+me" alt="About me" />
+</div>
 
-<p align="left">
-  <strong>Android Engineer</strong> · Kotlin · Jetpack Compose · MVVM · Coroutines
-</p>
+<div align="left">
+  <h3>Android Engineer</h3>
+  <p>
+    Building scalable mobile applications with clean architecture and performance-focused development.<br/>
+    Experienced in backend development using <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, and <strong>Redis</strong> within containerized ecosystems.<br/>
+    Currently an Information Technology student at <strong>Ho Chi Minh City University of Transport (UTH)</strong>.
+  </p>
+</div>
 
-<p align="left">
-  Building scalable mobile applications with clean architecture and performance-first design.<br/>
-  Backend-capable with FastAPI, PostgreSQL, Redis, and containerized infrastructure.<br/>
-  Student at <strong>Ho Chi Minh City University of Technology and Education</strong>.
-</p>
-
-<p align="left">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A96B,100:0D1117&height=2&section=header"
-  />
-</p>
+<br/>
 <!-- SECTION: END - ABOUT -->
 
 <!-- SECTION: START - DASHBOARD -->
+<!-- DASHBOARD SECTION -->
+
+<!-- Tech Stack -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr valign="top">
-<td width="48%">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=280&height=36&lines=Tech+Stack" alt="Tech Stack" />
-<br/>
-<table border="0" cellpadding="3" cellspacing="0">
-<tr valign="top">
-<td align="center"><sub>Mobile</sub><br/><br/><img src="https://skillicons.dev/icons?i=kotlin" height="26" alt="Kotlin" /><br/><img src="https://skillicons.dev/icons?i=androidstudio" height="26" alt="Android Studio" /><br/><img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="26" alt="Compose" /><br/><img src="https://skillicons.dev/icons?i=firebase" height="26" alt="Firebase" /><br/><img src="https://skillicons.dev/icons?i=sqlite" height="26" alt="SQLite" /></td>
-<td align="center"><sub>Backend</sub><br/><br/><img src="https://skillicons.dev/icons?i=fastapi" height="26" alt="FastAPI" /><br/><img src="https://skillicons.dev/icons?i=postgres" height="26" alt="PostgreSQL" /><br/><img src="https://skillicons.dev/icons?i=redis" height="26" alt="Redis" /><br/><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="26" alt="RabbitMQ" /></td>
-<td align="center"><sub>Infra</sub><br/><br/><img src="https://skillicons.dev/icons?i=docker" height="26" alt="Docker" /><br/><img src="https://skillicons.dev/icons?i=githubactions" height="26" alt="Actions" /><br/><img src="https://skillicons.dev/icons?i=linux" height="26" alt="Linux" /><br/><img src="https://cdn.simpleicons.org/git/F05032" height="26" alt="Git" /></td>
-<td align="center"><sub>Frontend</sub><br/><br/><img src="https://skillicons.dev/icons?i=react" height="26" alt="React" /><br/><img src="https://skillicons.dev/icons?i=ts" height="26" alt="TypeScript" /><br/><img src="https://skillicons.dev/icons?i=tailwind" height="26" alt="TailwindCSS" /></td>
-</tr>
-</table>
-</td>
-<td width="4%"></td>
-<td width="48%">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=4000&pause=100000&color=C8A96B&vCenter=true&width=320&height=36&lines=GitHub+Analytics" alt="GitHub Analytics" />
-<br/>
-<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=C8A96B&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="GitHub Stats" /><br/>
-<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="Top Languages" /><br/>
-<img height="130" src="https://streak-stats.demolab.com?user=huytran2005&theme=dark&background=0D1117&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="40%">
+      <!-- Tech Stack -->
+      <div align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&color=C8A96B&width=200&height=40&lines=Tech+Stack" alt="Tech Stack" />
+      </div>
+      <br/>
+      <p style="margin-bottom: 24px;">
+        <b>Mobile</b><br/>
+        <img src="https://skillicons.dev/icons?i=kotlin" height="42" alt="Kotlin" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="42" alt="Android Studio" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="42" alt="Compose" />
+      </p>
+      <p style="margin-bottom: 24px;">
+        <b>Backend</b><br/>
+        <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="42" alt="RabbitMQ" />
+      </p>
+      <p style="margin-bottom: 24px;">
+        <b>Infrastructure</b><br/>
+        <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="GitHub Actions" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" />
+      </p>
+      <p style="margin-bottom: 24px;">
+        <b>Frontend</b><br/>
+        <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="TailwindCSS" />
+      </p>
+    </td>
+    <td width="5%"></td> <!-- Spacer Column -->
+    <td valign="top" width="55%">
+      <!-- GitHub Analytics -->
+      <div align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&color=C8A96B&width=250&height=40&lines=GitHub+Analytics" alt="GitHub Analytics" />
+      </div>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=github_dark&bg_color=0D111700&hide_border=true&icon_color=C8A96B&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="GitHub Stats" width="560" />
+      <br/><br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=github_dark&bg_color=0D111700&hide_border=true&title_color=C8A96B&text_color=8B949E&cache_seconds=86400" alt="Top Languages" width="480" />
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com?user=huytran2005&theme=dark&background=0D111700&hide_border=true&ring=C8A96B&fire=C8A96B&currStreakLabel=C8A96B&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" width="560" />
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-<img width="94%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<br/><br/>
 
-<p align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A96B,100:0D1117&height=2&section=header" />
-</p>
+<!-- Contribution Graph -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&color=C8A96B&width=250&height=40&lines=Contribution+Graph" alt="Contribution Graph" />
+</div>
+<br/>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+<br/>
 <!-- SECTION: END - DASHBOARD -->
+
+<!-- SECTION: START - CONTACT -->
+<!-- CONTACT SECTION -->
+
+<div align="left" style="margin-top: 64px; margin-bottom: 24px;">
+  <!-- Animated Typing Title -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3200&pause=2000&color=C8A96B&vCenter=true&width=600&height=50&lines=Open+for+Collaboration;Crafting+Elegant+Digital+Experiences;Let's+Build+Something+Remarkable"
+    alt="Get in Touch"
+  />
+  
+  <p style="max-width: 680px; color: #8B949E; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.8; margin-top: 12px; font-weight: 300;">
+    I am always open to interesting collaborations, freelance projects, technical discussions, or professional opportunities. Feel free to reach out — let's build something outstanding together.
+  </p>
+</div>
+
+<br/>
+
+<div align="left" style="margin-bottom: 64px;">
+  <a href="mailto:huytran20052022@gmail.com" style="text-decoration: none; margin-right: 12px;">
+    <img 
+      src="https://img.shields.io/badge/Email-0E1015?style=for-the-badge&logo=gmail&logoColor=C8A96B"
+      alt="Email"
+    />
+  </a>
+  <a href="https://github.com/huytran2005" style="text-decoration: none; margin-right: 12px;">
+    <img 
+      src="https://img.shields.io/badge/GitHub-0E1015?style=for-the-badge&logo=github&logoColor=C8A96B"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-gia-huy-3014a3335/" style="text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0E1015?style=for-the-badge&logo=linkedin&logoColor=C8A96B"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
+
+<p align="center" style="font-family: 'Cormorant Garamond', 'Georgia', serif; font-style: italic; color: #C8A96B; font-size: 18px; letter-spacing: 1px; margin-top: 64px; margin-bottom: 24px; opacity: 0.85;">
+  ✦ Always building. Always learning. Always creating. ✦
+</p>
+<!-- SECTION: END - CONTACT -->
 
