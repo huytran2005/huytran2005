@@ -6,7 +6,7 @@
   />
 </h2>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="4" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="50%">
       <sub><strong style="color:#C8A96B">MOBILE</strong></sub><br/>
@@ -24,7 +24,6 @@
       <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="34" alt="RabbitMQ" />
     </td>
   </tr>
-  <tr><td colspan="2" height="10"></td></tr>
   <tr valign="top">
     <td width="50%">
       <sub><strong style="color:#C8A96B">INFRASTRUCTURE</strong></sub><br/>
