@@ -6,24 +6,26 @@
   />
 </h2>
 
-<!-- ROW 1: Stats + Top Languages side by side -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr valign="top">
-    <td width="50%" align="center">
-      <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<!-- ROW 1: GitHub Stats + Top Languages -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="8">
+    <tr align="center">
+      <td>
+        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huytran2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huytran2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- ROW 2: Streak full width -->
+<!-- ROW 2: Streak — centered, fixed height, not stretched -->
 <p align="center">
-  <img width="99%" src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=huytran2005&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ROW 3: Contribution Snake full width -->
+<!-- ROW 3: Contribution Snake — dedicated full-width row -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/huytran2005/huytran2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
